@@ -1,4 +1,4 @@
-package com.api.framework.model;
+package com.api.framework.api.model;
 
 /**
  * @author Abhishek Kumar on 29/02/2024

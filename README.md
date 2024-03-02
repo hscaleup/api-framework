@@ -13,3 +13,5 @@ POSTMAN
 1.How to create collections
 2.How to create Environment variables
 3.How log the details which is sending to the application server 
+4.How to create API chaining
+4.How to extract the perticular response from any variables

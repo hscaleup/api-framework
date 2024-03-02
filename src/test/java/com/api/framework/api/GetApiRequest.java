@@ -1,4 +1,4 @@
-package com.api.framework;
+package com.api.framework.api;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
