@@ -1,0 +1,11 @@
+{
+    "firstname": "api-testing",
+    "lastname": "tutorial",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2023-02-24",
+        "checkout": "2023-02-25"
+    },
+    "additionalneeds": "super bowls"
+}
