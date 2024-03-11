@@ -19,9 +19,6 @@ public class Booking {
         this.depositpaid = depositpaid;
         this.bookingdates = bookingdates;
     }
-public  void  Booking(){
-
-}
 
     public String getFirstname() {
         return firstname;
